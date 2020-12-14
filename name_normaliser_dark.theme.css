@@ -1,0 +1,13 @@
+/**
+
+ * @name Name Normaliser (Dark)
+ * @version 1.0
+ * @description Make the Names the same colour (Dark version).
+ * @authorId 435026627907420161
+ * @author Yellowsink
+
+**/
+
+.da-clickable, .da-roleColor {
+	color: white !important;
+}
