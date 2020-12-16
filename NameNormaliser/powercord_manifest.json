@@ -1,0 +1,9 @@
+{
+    "name": "Name Normaliser",
+    "description": "Makes names all black.",
+    "version": "1.0.0",
+    "author": "Yellowsink#8156",
+    "theme": "NameNormaliser.theme.css",
+    "consent": ["ext_listing"],
+    "license": "-"
+}
